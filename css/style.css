@@ -1,4 +1,4 @@
-/*Apexcys style.css 08.02.2024*/
+/*Apexcys style.css 29.08.2024*/
 
 @import url("https://fonts.googleapis.com/css2?family=Open Sans:wght@400;700&family=Merriweather+Sans:wght@400;700&display=swap");
 
@@ -497,6 +497,11 @@ a.button.btn-dark:hover {
 p.block {
 	line-height:1.5;
 	letter-spacing:.5px;
+}
+p.block2 {
+	line-height:1.5;
+	letter-spacing:.5px;
+	color:#fff;
 }
 
 /*........,.footer*/
